@@ -7,7 +7,7 @@ git touch commands.txt
 
 
 git diff .\commands.txt
-git add
-git commit -m "Cambios read me"
+git add .
+git commit -m "new commands"
 git status
 git push
