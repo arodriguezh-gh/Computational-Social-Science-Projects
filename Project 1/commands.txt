@@ -1,0 +1,13 @@
+git clone https://github.com/arodriguezh-gh/Computational-Social-Science-Projects.git
+cd .\Computational-Social-Science-Projects\
+ls
+mkdir "Project 1"
+cd '.\Project 1\
+git touch commands.txt
+
+
+git diff .\commands.txt
+git add
+git commit -m "Cambios read me"
+git status
+git push
